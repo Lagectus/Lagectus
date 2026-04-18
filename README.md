@@ -1,44 +1,120 @@
+<div align="center">
 
-<h1 align="center">
-	<a target="_blank">  
-    <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
-	Hi 
-	<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">
-	, I'm Sagar Vashist :)
-	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" style="max-width:100%;">
-  
-</h1>
-<h3 align="center">Passionate for exploring new technologies👨‍💻 and creating innovative solutions🚀. </h3>
+# 👋 Hey, I'm Sagar Vashist!
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;CS+Engineering+Student+%F0%9F%8E%93;Lifelong+Learner+%F0%9F%93%9A;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Explore+=>+Learn+=>+Code...;Always+Trying+to+Figured+Out+Best+Things.;Welcome+To+My+Profile...)](https://git.io/typing-svg)
+<br/>
 
-<h1 align="center">
-  <a>
-    
-    Explore => Learn => Code 
-   
-  </a>
-</h1> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-vashist/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lagectus)
+[![Profile Views](https://komarev.com/ghpvc/?username=sagar-vashist&style=for-the-badge&color=7F77DD&label=Profile+Views)](https://github.com/lagectus)
 
-<h2><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">About: </h2>
+</div>
 
-- 🌱 I’m currently learning **Nodejs & Expressjs (Backend)**
+---
 
-- 📫 How to reach me **vashsagar2@gmail.com**
+## 🚀 About Me
 
-- 💬 Ask me about **Front-end Development.**
+```ts
+const sagar = {
+  name        : "Sagar Vashist",
+  role        : "Full Stack Developer Intern",
+  education   : "Computer Science Engineering",
+  passion     : ["Building scalable apps", "Teaching others", "Open Source"],
+  mission     : "Clean. Efficient. User-Centric. 🎯",
+  currentlyLearning : ["System Design", "DevOps", "DSA"],
+  funFact     : "I debug with console.log and I'm proud of it 😄",
+};
+```
 
-- ⚡ Fun fact **I prefer to use underscore instead of spaces.**
+---
 
-<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me:</h3>
-<p align="left">
- <a href="https://www.linkedin.com/in/sagar-vashist/"><img align="center" src="https://www.pngplay.com/wp-content/uploads/12/LinkedIn-PNG-HD-Images.png" alt="linkedin account" height="30" width="30"/></a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-500x281.png" alt="replit account" height="30" width="60"/> </a>
-</p>
+## ⚙️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> </a> </p>
+### 🧠 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
- <br></br>
+### 🔧 Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lagectus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagectus&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sagar-vashist&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sagar-vashist&theme=tokyonight&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+- 🏗️ **System Design** — Designing scalable architectures
+- ☁️ **DevOps** — Docker, CI/CD pipelines
+- 🧩 **DSA** — Leveling up problem-solving skills
+- 🤖 **AI/ML** — Integrating intelligence into apps
+
+---
+
+## 💬 Let's Connect
+
+<div align="center">
+
+> *"The best way to learn is to build, break, fix, and share."*
+
+Feel free to reach out for collaborations, project ideas, or just a friendly dev chat!
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-vashist/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="100%" />
+
+*Thanks for visiting! Drop a ⭐ if you like my work!* 😊
+
+</div>
