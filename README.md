@@ -19,7 +19,7 @@
 ```ts
 const sagar = {
   name        : "Sagar Vashist",
-  role        : "Full Stack Developer Intern",
+  role        : "Full Stack Developer",
   education   : "Full Stack Development Course - 2024-2026"
                 "Post Graduation Diploma In Computer Application - 2025",
   passion     : ["Building scalable apps", "Teaching others", "Open Source"],
