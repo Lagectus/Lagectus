@@ -61,16 +61,6 @@ const sagar = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sagar-vashist&theme=tokyonight&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 - 🏗️ **System Design** — Designing scalable architectures
