@@ -20,7 +20,8 @@
 const sagar = {
   name        : "Sagar Vashist",
   role        : "Full Stack Developer Intern",
-  education   : "Computer Science Engineering",
+  education   : "Full Stack Development Course - 2024-2026"
+                "Post Graduation Diploma In Computer Application - 2025",
   passion     : ["Building scalable apps", "Teaching others", "Open Source"],
   mission     : "Clean. Efficient. User-Centric. 🎯",
   currentlyLearning : ["System Design", "DevOps", "DSA"],
