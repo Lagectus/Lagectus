@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Sagar Vashist!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;CS+Engineering+Student+%F0%9F%8E%93;Lifelong+Learner+%F0%9F%93%9A;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Code.+Build.+Ship.+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 
